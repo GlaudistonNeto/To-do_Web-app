@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d967c9-0c2f-49a8-a518-9bcf7a6996f3" name="Changes" comment="create a static web interface">
+    <list default="true" id="63d967c9-0c2f-49a8-a518-9bcf7a6996f3" name="Changes" comment="implement &quot;Add new todo items&quot; feature">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/web.py" afterDir="false" />
     </list>
@@ -58,12 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740428597620</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implement &quot;Add new todo items&quot; feature">
+      <option name="closed" value="true" />
+      <created>1740429408196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740429408196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create a static web interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a static web interface" />
+    <MESSAGE value="implement &quot;Add new todo items&quot; feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement &quot;Add new todo items&quot; feature" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
